@@ -81,9 +81,6 @@ I am building:
 | Date       | Milestone                                |
 |------------|-------------------------------------------|
 | 2025-06-05 | Repository initialized                    |
-| 2025-06-05 | Personal Manifesto + Non-Negotiables done |
-| 2025-06-06 | Morning Routine v1 + Habit Tracker live   |
-| 2025-06-07 | Cybersecurity Learning Plan uploaded      |
 
 ---
 
