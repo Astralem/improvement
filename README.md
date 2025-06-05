@@ -43,39 +43,6 @@ I am building:
 
 ---
 
-## 🗂️ Folder Structure
-
-/becoming-solis
-│
-├── README.md
-├── manifesto/ # Personal manifesto, non-negotiables, values
-│ └── personal-manifesto.md
-│ └── non-negotiables.md
-│
-├── routines/ # Morning, evening, deep work systems
-│ └── morning-routine.md
-│ └── deep-work-flow.md
-│
-├── logs/ # Daily entries, reflections, decision audits
-│ └── 2025-06-05-log.md
-│
-├── habits/ # 66-day trackers, behavior architecture
-│ └── habit-tracker.md
-│
-├── mindset/ # Stoicism, internal rewiring, identity training
-│ └── anti-fragile-core.md
-│
-├── skills/ # Cybersecurity, tools, roadmap, project progress
-│ └── soc-training-path.md
-│
-├── finances/ # Income plan, budget design, asset accumulation
-│ └── financial-stack.md
-│
-└── reflections/ # Pain-to-power stories, philosophical upgrades
-└── fear-to-courage.md
-
----
-
 ## 📅 Progress Log (Milestones)
 
 | Date       | Milestone                                |
