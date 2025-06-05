@@ -90,7 +90,7 @@ I am building:
 
 - **Simplicity wins**  
 - **Hard things build strong men**  
-- **No one is coming — I lead myself**  
+- **No one will come for you, so help yourself.**
 - **Time is a weapon, not a suggestion**  
 - **Compete with yesterday, not people**
 
