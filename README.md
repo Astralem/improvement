@@ -44,6 +44,7 @@ I am building:
 ---
 
 ## 🗂️ Folder Structure
+
 /becoming-solis
 │
 ├── README.md
