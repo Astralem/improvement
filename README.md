@@ -44,4 +44,70 @@ I am building:
 ---
 
 ## 🗂️ Folder Structure
+/becoming-solis
+│
+├── README.md
+├── manifesto/ # Personal manifesto, non-negotiables, values
+│ └── personal-manifesto.md
+│ └── non-negotiables.md
+│
+├── routines/ # Morning, evening, deep work systems
+│ └── morning-routine.md
+│ └── deep-work-flow.md
+│
+├── logs/ # Daily entries, reflections, decision audits
+│ └── 2025-06-05-log.md
+│
+├── habits/ # 66-day trackers, behavior architecture
+│ └── habit-tracker.md
+│
+├── mindset/ # Stoicism, internal rewiring, identity training
+│ └── anti-fragile-core.md
+│
+├── skills/ # Cybersecurity, tools, roadmap, project progress
+│ └── soc-training-path.md
+│
+├── finances/ # Income plan, budget design, asset accumulation
+│ └── financial-stack.md
+│
+└── reflections/ # Pain-to-power stories, philosophical upgrades
+└── fear-to-courage.md
+
+---
+
+## 📅 Progress Log (Milestones)
+
+| Date       | Milestone                                |
+|------------|-------------------------------------------|
+| 2025-06-05 | Repository initialized                    |
+| 2025-06-05 | Personal Manifesto + Non-Negotiables done |
+| 2025-06-06 | Morning Routine v1 + Habit Tracker live   |
+| 2025-06-07 | Cybersecurity Learning Plan uploaded      |
+
+---
+
+## 📌 Principles
+
+- **Simplicity wins**  
+- **Hard things build strong men**  
+- **No one is coming — I lead myself**  
+- **Time is a weapon, not a suggestion**  
+- **Compete with yesterday, not people**
+
+---
+
+## ⚔️ Notes to Self
+
+You are no longer allowed to live on auto-pilot.  
+If this repo is blank, it reflects a mind that is drifting.  
+This is your anchor.  
+This is your blueprint.  
+This is how you become Solis.
+
+---
+
+## 🧭 Legacy Reminder
+
+> _"When my life flashes before my eyes, I want it to be a masterpiece."_
+
 
