@@ -1,6 +1,7 @@
-# CURRENT OBJECTIVE - DRIVING SCHOOLS | RESUME DEVLEOPMENT
+
 
 # 👑 Becoming Solis — The Self-Mastery Operating System
+### CURRENT OBJECTIVE - DRIVING SCHOOLS | RESUME DEVLEOPMENT
 
 > “Before I build the world I want to live in, I must become the man who can rule it.”
 
