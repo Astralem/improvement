@@ -15,11 +15,9 @@
 
 # OVERALL
 ### Workouts consistent ⭐
-### Woring on Nutrition
 ### Skincare ⭐
 ### Lemon & Cucumber Water ⭐
 ### Read Attached ⭐
-### Working on Fashion 
 ### Found a hairstyle ⭐
 ### Fixing on expressions 
 ### Tongue Scraping ⭐
@@ -28,6 +26,8 @@
 ### Opened Paypal account ⭐
 ### Got a laptop ⭐
 ### Opened GSave ⭐
+### Woring on Nutrition
+### Working on Fashion 
 ### Started building Instagram
 ### Developing Github Repo
 ### Developing Resume
