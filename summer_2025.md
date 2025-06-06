@@ -27,6 +27,7 @@
 ### Opened Wise account ⭐
 ### Opened Paypal account ⭐
 ### Got a laptop ⭐
+### Opened GSave ⭐
 ### Started building Instagram
 ### Developing Github Repo
 ### Developing Resume
