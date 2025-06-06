@@ -64,6 +64,8 @@ This is a practical, prioritized checklist meant to transform Hanes at 18 into t
 - [ ] Practice setting up firewalls and basic router configuration.
 - [ ] Learn to use Wireshark or Nmap.
 - [ ] Add 1 cybersecurity write-up to GitHub every month.
+- [ ] Learn how to code in Python and Automate Scripts
+- [ ] Have completed and done a write-up of atleast one project. 
 
 ---
 
