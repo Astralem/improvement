@@ -10,6 +10,7 @@
 ### 💠 Got a ASUS Vivobook 16 X1605
 ### 💠 Made a Wise Account
 ### 💠 Made a Paypal Account
+### 💠 Got new shoes
 
 ---
 
@@ -26,6 +27,7 @@
 ### Opened Paypal account ⭐
 ### Got a laptop ⭐
 ### Opened GSave ⭐
+### Found Shoes ⭐
 ### Woring on Nutrition
 ### Working on Fashion 
 ### Started building Instagram
