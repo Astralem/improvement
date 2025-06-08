@@ -11,6 +11,7 @@
 ### 💠 Made a Wise Account
 ### 💠 Made a Paypal Account
 ### 💠 Got new shoes
+### 💠 Making a portfolio profile
 
 ---
 
