@@ -79,7 +79,8 @@
 - [ ] Set up ZeroTier for secure remote networking
 - [ ] Install a lightweight VPN (like Windscribe, ProtonVPN)
 - [ ] Enable Clipboard Sync Across Devices (Windows 11 or 3rd-party)
-
+- [ ] Buy a laptop sleeve
+- [ ] Buy a tote bag with laptop sleeve compartment
 ---
 
 > Let me know if you'd like ready-to-run scripts or automation.
