@@ -81,6 +81,7 @@
 - [ ] Enable Clipboard Sync Across Devices (Windows 11 or 3rd-party)
 - [ ] Buy a Laptop Sleeve
 - [ ] Buy a Tote Bag with Laptop Sleeve Compartment
+- [ ] Buy a Laptop Keybaord Cover
 ---
 
 > Let me know if you'd like ready-to-run scripts or automation.
