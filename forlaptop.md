@@ -2,86 +2,103 @@
 # ✅ Solis-Grade Laptop Setup Checklist  
 **"Turn tools into instruments. Refine the raw into the rare."**
 
----
+Always show details
 
-## 🧠 CORE SYSTEM OPTIMIZATION
+Copy
+from pathlib import Path
 
-- [ ] Install Windows 11 Debloater (like Sophia Script or BloatyNosy)
-- [ ] Remove OEM bloatware & trials (McAfee, MyASUS extras, etc.)
-- [ ] Turn off Fast Startup – ensures BIOS access & clean restarts
-- [ ] Set to Ultimate Performance Power Plan
-- [ ] Create Auto Power Profile Switcher (plugged in = performance, unplugged = battery saver)
-- [ ] Disable Telemetry and Tracking (Group Policy, Services, or 3rd party tool)
-- [ ] Adjust Virtual Memory / Pagefile manually (for stability on heavy tasks)
-- [ ] Enable Storage Sense or WinDirStat for file hygiene
+# Content of the Markdown file
+markdown_content = """# ✅ Solis-Grade Laptop Setup – Chronological Execution  
+**_"Turn tools into instruments. Refine the raw into the rare."_**
 
 ---
 
-## ⚙️ SYSTEM CONTROL & REMOTE POWER
+## 🧱 PHASE 1: BASELINE SYSTEM SETUP (Foundation)
+_Clean install logic – strip clutter, enforce performance stability._
 
-- [ ] Set up Parsec Remote Access (Main PC as host, Laptop as thin client)
-- [ ] Configure BIOS Auto-Power On Schedule (or Wake on LAN)
-- [ ] Buy Smart Plug with Remote App Control + High Wattage Rating
-- [ ] Enable Discord webhook / script alert for “PC On” status
-
----
-
-## 🛠️ MULTI-OS AND DEV ENVIRONMENT
-
-- [ ] Set Up Dual Boot (Linux + Windows)
-- [ ] Consider Ubuntu or Fedora for stability
-- [ ] Configure GRUB to be clean and fast
-- [ ] Install WSL2 (Windows Subsystem for Linux) if not dual-booting
-- [ ] Install Git, VS Code, and essential CLI tools (PowerToys, Oh My Posh, Windows Terminal)
+- [ ] Install **Windows 11 Debloater** (e.g., Sophia Script or BloatyNosy)  
+- [ ] Remove **OEM bloatware & trials** (McAfee, MyASUS extras, etc.)  
+- [ ] Turn off **Fast Startup** (enables BIOS access, avoids hibernation bugs)  
+- [ ] Set **Ultimate Performance Power Plan**  
+- [ ] Disable **Telemetry & Tracking** (Group Policy, Services, or 3rd party tool)  
+- [ ] Adjust **Virtual Memory / Pagefile** manually (for RAM-based stability)  
+- [ ] Enable **Storage Sense** or install **WinDirStat** for file hygiene  
 
 ---
 
-## 🔁 FILE SYNC AND STORAGE
+## ⚡ PHASE 2: SYSTEM CONTROL & POWER LOGIC
+_Performance tuning and remote control setup._
 
-- [ ] Install & Configure Syncthing (Link folders with main PC)
-- [ ] Secure Syncthing with local encryption + password
-- [ ] Enable OneDrive/Google Drive integration for temp cross-device access
-- [ ] Download Obsidian for Notes
-
----
-
-## 🧪 DEVELOPMENT / CYBERSECURITY TOOLKIT
-
-- [ ] Install VirtualBox or VMware Workstation
-- [ ] Install Packet Tracer, Wireshark, Nmap, Burp Suite
-- [ ] Preload VMs (Windows Server, Kali, Ubuntu)
-- [ ] Setup Local DNS & Subnet Simulation (with GNS3 or simple static config)
+- [ ] Create **Auto Power Profile Switcher** (performance when plugged in, battery saver when mobile)  
+- [ ] Enable **Core Isolation + Memory Integrity** (Security > Device Security)  
+- [ ] Turn on **BitLocker** (if TPM is available and stable)  
+- [ ] Set up **Parsec** for Remote Access (Main PC = host, Laptop = thin client)  
+- [ ] Configure **BIOS Auto-Power On Schedule** or **Wake on LAN**  
+- [ ] Buy **Smart Plug** with App Remote Control & High Wattage Rating  
+- [ ] Enable **Discord Webhook or script alert** for “PC On” status  
 
 ---
 
-## 🧩 AESTHETIC & PRODUCTIVITY
+## 🛠️ PHASE 3: MULTI-OS & DEV ENVIRONMENT
+_Ready the system for development and multi-platform workflows._
 
-- [ ] Tweak Desktop Environment (Rainmeter / Fluent flyout / Wallpaper Engine)
-- [ ] Set custom keyboard mapping (SharpKeys / PowerToys)
-- [ ] Fix Shift Key Layout Quirk (remap `\` to Shift using AutoHotkey or PowerToys)
-- [ ] Set up auto-night light & brightness schedule
-- [ ] Install battery health tracker (BatteryInfoView)
-
----
-
-## 📈 PERFORMANCE & MAINTENANCE
-
-- [ ] Enable Core Isolation + Memory Integrity (Security > Device Security)
-- [ ] Turn on BitLocker (if TPM available and stable)
-- [ ] Run `sfc /scannow` + DISM check after setup
-- [ ] Benchmark your setup (UserBenchmark / Cinebench / CrystalDisk)
+- [ ] Install **Git**, **VS Code**, and CLI Tools (Windows Terminal, PowerToys, Oh My Posh)  
+- [ ] Install **WSL2** (if not dual-booting)  
+- [ ] Set up **Dual Boot** (Windows + Linux – Ubuntu or Fedora recommended)  
+- [ ] Configure **GRUB** to be clean, aesthetic, and fast  
 
 ---
 
-## 🧰 OPTIONAL ENHANCEMENTS
+## 🔁 PHASE 4: FILE SYNC & KNOWLEDGE MANAGEMENT
+_Ensure mobility, syncing, and knowledge integration._
 
-- [ ] Use SmartDNS or RethinkDNS for ad/tracker blocking at DNS level
-- [ ] Set up ZeroTier for secure remote networking
-- [ ] Install a lightweight VPN (like Windscribe, ProtonVPN)
-- [ ] Enable Clipboard Sync Across Devices (Windows 11 or 3rd-party)
-- [ ] Buy a Laptop Sleeve
-- [ ] Buy a Tote Bag with Laptop Sleeve Compartment
-- [ ] Buy a Laptop Keybaord Cover
+- [ ] Install & Configure **Syncthing** (link folders with Main PC)  
+- [ ] Secure Syncthing with **Local Encryption + Password**  
+- [ ] Enable **OneDrive/Google Drive** for temporary cross-device access  
+- [ ] Install **Obsidian** for structured knowledge and PKM  
+
+---
+
+## 🧪 PHASE 5: DEVELOPMENT & CYBERSECURITY TOOLKIT
+_Load tools, virtual labs, and simulations._
+
+- [ ] Install **VirtualBox** or **VMware Workstation**  
+- [ ] Preload VMs: **Windows Server**, **Kali Linux**, **Ubuntu**  
+- [ ] Install **Packet Tracer**, **Wireshark**, **Nmap**, **Burp Suite**  
+- [ ] Set up Local DNS & Subnet Simulation (via **GNS3** or static config)  
+
+---
+
+## 🧩 PHASE 6: AESTHETIC & WORKFLOW PRODUCTIVITY
+_Refine interface, ergonomics, and daily comfort._
+
+- [ ] Tweak Desktop (Rainmeter / Fluent Flyout / Wallpaper Engine)  
+- [ ] Customize Keyboard Mapping (SharpKeys or PowerToys)  
+- [ ] Fix Shift Key Layout Quirk (remap `\\` to Shift using AutoHotkey or PowerToys)  
+- [ ] Set up **Auto-Night Light & Brightness** Schedule  
+- [ ] Install **BatteryInfoView** or similar tracker for battery health  
+
+---
+
+## 📈 PHASE 7: PERFORMANCE VERIFICATION & SYSTEM CHECKS
+_Ensure everything is optimized and clean._
+
+- [ ] Run `sfc /scannow` + **DISM Check**  
+- [ ] Benchmark with **UserBenchmark**, **Cinebench**, **CrystalDiskMark**  
+
+---
+
+## 🧰 PHASE 8: OPTIONAL ENHANCEMENTS & ACCESSORIES
+_For Solis-level polish, privacy, and comfort._
+
+- [ ] Use **SmartDNS** or **RethinkDNS** for DNS-level ad/tracker blocking  
+- [ ] Set up **ZeroTier** for private, secure remote networking  
+- [ ] Install a lightweight VPN (e.g., **ProtonVPN**, **Windscribe**)  
+- [ ] Enable **Clipboard Sync Across Devices** (Windows 11 or 3rd party)  
+- [ ] Buy a **Laptop Sleeve**  
+- [ ] Buy a **Tote Bag** with Laptop Compartment  
+- [ ] Buy a **Keyboard Cover** for spill and dust protection  
+
 ---
 
 > Let me know if you'd like ready-to-run scripts or automation.
