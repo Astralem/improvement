@@ -97,7 +97,10 @@ _For Solis-level polish, privacy, and comfort._
 - [ ] Enable **Clipboard Sync Across Devices** (Windows 11 or 3rd party)  
 - [ ] Buy a **Laptop Sleeve**  
 - [ ] Buy a **Tote Bag** with Laptop Compartment  
-- [ ] Buy a **Keyboard Cover** for spill and dust protection  
+- [ ] Buy a **Keyboard Cover** for spill and dust protection
+- [ ] Make a detection script for PC for awake.
+- [ ] Make a automatic battery power plan change depending on battery state.
+- [ ] Auto-shutdown when no input in main PC
 
 ---
 
