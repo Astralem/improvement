@@ -33,9 +33,7 @@ _Performance tuning and remote control setup._
 - [ ] Enable **Core Isolation + Memory Integrity** (Security > Device Security)  
 - [ ] Turn on **BitLocker** (if TPM is available and stable)  
 - [ ] Set up **Parsec** for Remote Access (Main PC = host, Laptop = thin client)  
-- [ ] Configure **BIOS Auto-Power On Schedule** or **Wake on LAN**  
 - [ ] Buy **Smart Plug** with App Remote Control & High Wattage Rating  
-- [ ] Enable **Discord Webhook or script alert** for “PC On” status  
 
 ---
 
@@ -54,7 +52,6 @@ _Ensure mobility, syncing, and knowledge integration._
 
 - [ ] Install & Configure **Syncthing** (link folders with Main PC)  
 - [ ] Secure Syncthing with **Local Encryption + Password**  
-- [ ] Enable **OneDrive/Google Drive** for temporary cross-device access  
 - [ ] Install **Obsidian** for structured knowledge and PKM  
 
 ---
@@ -74,7 +71,6 @@ _Refine interface, ergonomics, and daily comfort._
 
 - [ ] Tweak Desktop (Rainmeter / Fluent Flyout / Wallpaper Engine)  
 - [ ] Customize Keyboard Mapping (SharpKeys or PowerToys)  
-- [ ] Fix Shift Key Layout Quirk (remap `\\` to Shift using AutoHotkey or PowerToys)  
 - [ ] Set up **Auto-Night Light & Brightness** Schedule  
 - [ ] Install **BatteryInfoView** or similar tracker for battery health  
 
@@ -101,6 +97,8 @@ _For Solis-level polish, privacy, and comfort._
 - [ ] Make a detection script for PC for awake.
 - [ ] Make a automatic battery power plan change depending on battery state.
 - [ ] Auto-shutdown when no input in main PC
+- [ ] Configure **BIOS Auto-Power On Schedule** or **Wake on LAN**
+- [ ] Enable **Discord Webhook or script alert** for “PC On” status  
 
 ---
 
