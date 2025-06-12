@@ -1,4 +1,4 @@
-# 📱 Mobile Phone Wireless Communication & Connectivity
+# 📘 MODULE 3: WIRELESS AND MOBILE NETWORKS
 
 Mobile phones use **radio waves** to transmit voice signals to antennas mounted on **cell towers** in specific geographic regions.
 
