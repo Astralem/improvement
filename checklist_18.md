@@ -31,7 +31,7 @@ This is a practical, prioritized checklist meant to transform Hanes at 18 into t
 - [✅] Set a target job title or internship to qualify for by age 19.
 - [ ] Earn at least **3 free certificates** (Networking, Cybersecurity, or Productivity).
 - [ ] Take 1 free Networking Certificate (Cisco’s Introduction to Networking).
-- [ ] Practice your typing speed (target 70+ WPM).
+- [✅] Practice your typing speed (target 70+ WPM).
 - [ ] Learn basic Excel or Google Sheets (essential tool for reports).
 - [ ] Join 1 free cybersecurity Discord server or online community.
 - [ ] Track every skill added in a GitHub or Notion “Skill Vault”.
