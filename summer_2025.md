@@ -31,6 +31,7 @@
 ### Opened GSave ⭐
 ### Found Shoes ⭐
 > Nike Men's Court Vision Low Shoes - Light Khaki
+### Start using those Eyeshades ⭐
 ### Woring on Nutrition
 ### Working on Fashion 
 ### Started building Instagram
