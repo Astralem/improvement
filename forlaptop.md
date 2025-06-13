@@ -16,13 +16,13 @@ markdown_content = """# ✅ Solis-Grade Laptop Setup – Chronological Execution
 ## 🧱 PHASE 1: BASELINE SYSTEM SETUP (Foundation)
 _Clean install logic – strip clutter, enforce performance stability._
 
-- [ ] Install **Windows 11 Debloater** (e.g., Sophia Script or BloatyNosy)  
-- [ ] Remove **OEM bloatware & trials** (McAfee, MyASUS extras, etc.)  
-- [ ] Turn off **Fast Startup** (enables BIOS access, avoids hibernation bugs)  
-- [ ] Set **Ultimate Performance Power Plan**  
-- [ ] Disable **Telemetry & Tracking** (Group Policy, Services, or 3rd party tool)  
-- [ ] Adjust **Virtual Memory / Pagefile** manually (for RAM-based stability)  
-- [ ] Enable **Storage Sense** or install **WinDirStat** for file hygiene  
+- [✅] Install **Windows 11 Debloater** (e.g., Sophia Script or BloatyNosy)  
+- [✅] Remove **OEM bloatware & trials** (McAfee, MyASUS extras, etc.)  
+- [✅] Turn off **Fast Startup** (enables BIOS access, avoids hibernation bugs)  
+- [✅] Set **Ultimate Performance Power Plan**  
+- [✅] Disable **Telemetry & Tracking** (Group Policy, Services, or 3rd party tool)  
+- [✅] Adjust **Virtual Memory / Pagefile** manually (for RAM-based stability)  
+- [✅] Enable **Storage Sense** or install **WinDirStat** for file hygiene  
 
 ---
 
@@ -30,9 +30,9 @@ _Clean install logic – strip clutter, enforce performance stability._
 _Performance tuning and remote control setup._
 
 - [ ] Create **Auto Power Profile Switcher** (performance when plugged in, battery saver when mobile)  
-- [ ] Enable **Core Isolation + Memory Integrity** (Security > Device Security)  
-- [ ] Turn on **BitLocker** (if TPM is available and stable)  
-- [ ] Set up **Parsec** for Remote Access (Main PC = host, Laptop = thin client)  
+- [✅] Enable **Core Isolation + Memory Integrity** (Security > Device Security)  
+- [✅] Turn on **BitLocker** (if TPM is available and stable)  
+- [✅] Set up **Parsec** for Remote Access (Main PC = host, Laptop = thin client)  
 - [ ] Buy **Smart Plug** with App Remote Control & High Wattage Rating  
 
 ---
@@ -40,7 +40,7 @@ _Performance tuning and remote control setup._
 ## 🛠️ PHASE 3: MULTI-OS & DEV ENVIRONMENT
 _Ready the system for development and multi-platform workflows._
 
-- [ ] Install **Git**, **VS Code**, and CLI Tools (Windows Terminal, PowerToys, Oh My Posh)  
+- [✅] Install **Git**, **VS Code**, and CLI Tools (Windows Terminal, PowerToys, Oh My Posh)  
 - [ ] Install **WSL2** (if not dual-booting)  
 - [ ] Set up **Dual Boot** (Windows + Linux – Ubuntu or Fedora recommended)  
 - [ ] Configure **GRUB** to be clean, aesthetic, and fast  
@@ -69,17 +69,17 @@ _Load tools, virtual labs, and simulations._
 ## 🧩 PHASE 6: AESTHETIC & WORKFLOW PRODUCTIVITY
 _Refine interface, ergonomics, and daily comfort._
 
-- [ ] Tweak Desktop (Rainmeter / Fluent Flyout / Wallpaper Engine)  
-- [ ] Customize Keyboard Mapping (SharpKeys or PowerToys)  
-- [ ] Set up **Auto-Night Light & Brightness** Schedule  
-- [ ] Install **BatteryInfoView** or similar tracker for battery health  
+- [✅] Tweak Desktop (Rainmeter / Fluent Flyout / Wallpaper Engine)  
+- [✅] Customize Keyboard Mapping (SharpKeys or PowerToys)  
+- [✅] Set up **Auto-Night Light & Brightness** Schedule  
+- [✅] Install **BatteryInfoView** or similar tracker for battery health  
 
 ---
 
 ## 📈 PHASE 7: PERFORMANCE VERIFICATION & SYSTEM CHECKS
 _Ensure everything is optimized and clean._
 
-- [ ] Run `sfc /scannow` + **DISM Check**  
+- [✅] Run `sfc /scannow` + **DISM Check**  
 - [ ] Benchmark with **UserBenchmark**, **Cinebench**, **CrystalDiskMark**  
 
 ---
@@ -90,7 +90,7 @@ _For Solis-level polish, privacy, and comfort._
 - [ ] Use **SmartDNS** or **RethinkDNS** for DNS-level ad/tracker blocking  
 - [ ] Set up **ZeroTier** for private, secure remote networking  
 - [ ] Install a lightweight VPN (e.g., **ProtonVPN**, **Windscribe**)  
-- [ ] Enable **Clipboard Sync Across Devices** (Windows 11 or 3rd party)  
+- [✅] Enable **Clipboard Sync Across Devices** (Windows 11 or 3rd party)  
 - [ ] Buy a **Laptop Sleeve**  
 - [ ] Buy a **Tote Bag** with Laptop Compartment  
 - [ ] Buy a **Keyboard Cover** for spill and dust protection
