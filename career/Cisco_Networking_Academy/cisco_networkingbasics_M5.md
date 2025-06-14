@@ -1,5 +1,4 @@
-# 📡 Module Summary: Communication Protocols, Standards, and Models
-
+# 📘 MODULE 5: COMMUNICATION PRINCIPLES
 ---
 
 ## 🧠 Communication Protocols
