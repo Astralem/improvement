@@ -1,5 +1,4 @@
-# 📘 MODULE 2: Network Components, Types, and Connections
-
+# 📘 MODULE 2: NETWORK COMPONENTS, TYPES, AND CONNECTIONS
 ---
 
 ## 💻 Host Roles in a Network
