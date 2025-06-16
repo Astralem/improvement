@@ -1,4 +1,4 @@
-# 🌐 Network Media Types
+# 📘 MODULE 6: NETWORK MEIDA
 
 Communication in a network relies on **media**—the physical or wireless channel through which data is transmitted from **source to destination**.
 
