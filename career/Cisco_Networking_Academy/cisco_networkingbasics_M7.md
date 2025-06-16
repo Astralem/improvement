@@ -1,4 +1,4 @@
-# 🧱 Encapsulation, Ethernet Frames, and the Access Layer – Study Guide
+# 📘 MODULE 7: THE ACCESS LAYER
 
 ---
 
