@@ -12,7 +12,7 @@ Serums :
 Moisturizer : 
 * [DAILY] Luxe Organix Cica Moisturizer
 Sunscreen : 
-* [DAILY] Luxe Organix Sunstick
+* [DAILY] Luxe Organix Sunstickt
 Lip Balm :
 * [DAILY] PINK LOLITA Maybelline 
 Facial Mist :
