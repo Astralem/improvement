@@ -77,18 +77,18 @@
 ### Skin
 - [ ] Use tinted sunscreen daily (Luxe Organix)
 - [ ] Ice roll in mornings or before events
-- [ ] Use mist + moisturizer layering
+- [✅] Use mist + moisturizer layering
 - [ ] Apply eye cream or under-eye balm
 - [ ] Spot highlight under eyes on events
 
 ### Hair
-- [ ] Use curl lotion + soft clay for volume texture
+- [✅] Use curl lotion + soft clay for volume texture
 - [ ] Practice middle-part or K-idol fringe
-- [ ] Blow-dry with diffuser for airy lift
+- [✅] Blow-dry with diffuser for airy lift
 - [ ] Use serum spray for shine and softness
 
 ### Cosmetics
-- [ ] Use lip tint (brick/coral) daily
+- [✅] Use lip tint (brick/coral) daily
 - [ ] Use eyelash curler before events
 - [ ] Optional: Brow gel or light contour stick
 
