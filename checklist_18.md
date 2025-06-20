@@ -125,7 +125,7 @@ This is a practical, prioritized checklist meant to transform Hanes at 18 into t
 ## 🎁 BONUS / OPTIONAL (But High Impact)
 
 - [ ] Start a public blog, GitHub Pages, or LinkedIn article series.
-- [ ] Save for 1 good leather bag or sleek laptop sleeve.
+- [✅] Save for 1 good leather bag or sleek laptop sleeve.
 - [ ] Learn 1 high-value soft skill (copywriting, sales, Excel).
 - [ ] Use Duolingo or any app to practice Spanish or Mandarin.
 - [ ] Create a digital vision board (Aesthetic + Goals).
